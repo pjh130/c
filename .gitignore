@@ -10,6 +10,9 @@
 ipch
 *.ipch
 *.sdf
+*.idb
+*.ilk
+*.log
 *.Debug
 *.Release
 *.user
