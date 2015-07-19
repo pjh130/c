@@ -7,6 +7,9 @@
 *.pdb
 *.pch
 *.tlog
+ipch
+*.ipch
+*.sdf
 *.Debug
 *.Release
 *.user
