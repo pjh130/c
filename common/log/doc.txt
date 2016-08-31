@@ -1,0 +1,11 @@
+一、easyloggingpp：C++日志库，只包含单一的头文件
+	https://github.com/easylogging/easyloggingpp
+
+二、Boost.Log ：设计非常模块化，并且具有扩展性
+	http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html
+
+三、Log4cpp ：一系列C++类库，灵活添加日志到文件，系统日志，IDSA和其他地方
+	http://log4cpp.sourceforge.net
+
+四、templog：轻量级C++库，可以添加日志到你的C++应用程序中
+	http://www.templog.org

@@ -23,3 +23,7 @@ c
 [十个C开源项目](http://my.oschina.net/zhoukuo/blog/335788)
 
 [Kit is C++ framework for game development](https://github.com/haikarainen/kit)
+
+[图形图像处理开源库](http://blog.csdn.net/xiexingshishu/article/details/44774851)
+
+[JSON for Modern C++](https://github.com/nlohmann/json)
