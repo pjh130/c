@@ -27,3 +27,7 @@ c
 [图形图像处理开源库](http://blog.csdn.net/xiexingshishu/article/details/44774851)
 
 [JSON for Modern C++](https://github.com/nlohmann/json)
+
+[Muduo一个基于Reactor模式的C++网络库](https://github.com/chenshuo/muduo)
+
+[Skynet is a lightweight online game framework](https://github.com/cloudwu/skynet)
