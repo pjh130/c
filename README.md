@@ -1,5 +1,7 @@
 c
 
+[值得推荐的C/C++框架和库](http://blog.csdn.net/weiwangchao_/article/details/52675869)
+
 [C/C++ 开源库及示例代码](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
 
 [C++ 资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)
