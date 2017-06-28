@@ -1,5 +1,7 @@
 c
 
+[开源免费的C/C++网络库](http://blog.csdn.net/weiwangchao_/article/details/8730199)
+
 [值得推荐的C/C++框架和库](http://www.cnblogs.com/findumars/p/6891515.html)
 
 [值得推荐的C/C++框架和库](http://blog.csdn.net/weiwangchao_/article/details/52675869)
